@@ -1,0 +1,10 @@
+# This is Git's per-user configuration file.
+[user]
+# Please adapt and uncomment the following lines:
+#	name = Ravi
+#	email = 613587@cognizant.com
+[user]
+	name = abi
+	email = test@example.com
+[push]
+	default = simple
